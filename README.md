@@ -12,6 +12,8 @@ I love messing with silly stuff!
 - same but less and don't use much: Dart(Flutter) JS, Svelte
 
 ## what I use
-- (Arch) Linux + KDE Plasma
+- macOS / (Arch) Linux + KDE Plasma
 - Almost always VS Code
 - Zen Browser, fork of Firefox.
+
+###### i'm sorry, little pengun
