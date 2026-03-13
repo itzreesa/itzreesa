@@ -1,4 +1,4 @@
-feel mai presenc - i'm reesa~! ✨🌸💖
+feel mai presenc - i'm reesa! ✨🌸💖
 ===========================
 I love messing with silly stuff!
 
