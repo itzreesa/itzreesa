@@ -1,19 +1,17 @@
 
-haii, it iz me - reesa~! ✨
+haii, feel mai presenc - i'm reesa~! ✨🌸💖
 ===========================
 I love messing with silly stuff!
 
-#### check out my [website](https://reesa.cc/)!!
+#### check out my [website](https://reesa.cc/)!! updated for 2026!
 
 ## coding
 - I love games and game development (mainly Godot) (preferably GDScript but sometimes C#)
-- I'm learning ***Rust***
-- other stuff I know: Python, C, C++, Java, Bash
-- same but less and don't use much: Dart(Flutter) JS, Svelte
+- Trying to learn ***Rust*** (it's so fun!)
+- other stuff I use ig: Python, C, C++, Java, Bash
+- know don't use much: Dart(Flutter) JS, Svelte
 
 ## what I use
-- macOS / (Arch) Linux + KDE Plasma
-- Almost always VS Code
-- Zen Browser, fork of Firefox.
-
-###### i'm sorry, little pengun
+- Mostly Fedora (+ Asahi) or Arch with KDE Plasma
+- Almost always VS Code, sometimes stuff from JetBrains
+- Zen Browser, a fork of Firefox.
